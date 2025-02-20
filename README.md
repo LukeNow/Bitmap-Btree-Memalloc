@@ -1,5 +1,5 @@
 # Bitmap-Btree-Memalloc
-A fast and atomic Bitmap Btree for memory alloctors operating on 64 bit integers
+A fast and atomic Bitmap Btree for memory allocators operating on 64 bit integers
 
 This was made for a memory allocator scheme for my custom OS. It is named arraylist_btree in the source as it is using an arraylist (the naming is not great its more of a bitmap), with an ordering of a btree for faster
 accesses.
